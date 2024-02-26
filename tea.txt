@@ -1,0 +1,1 @@
+Staking is using TEA cryptographic tokens to support open-source software projects registered with the tea Protocol. Staking is not riskless but can generate token rewards that are claimable daily and allows you to participate in the governance of the tea Protocol.
